@@ -1,0 +1,26 @@
+@import './components/reset';
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Roboto&display=swap');
+
+* {
+    color: #eee;
+
+    font-size: 24px;
+    font-family: "Roboto", "Montserrat", "Lato", sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    background-color: #333;
+}
+
+
+@import './components/container';
+@import './components/array';
+@import './components/input';
+@import './components/alert';
+@import './components/animation-classes';

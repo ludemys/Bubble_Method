@@ -1,0 +1,19 @@
+.alert {
+
+    text-align: center;
+
+    margin: 0 3em;
+    background-color: #df2727;
+
+    padding: 1em 0;
+    border-radius: 10px;
+    border: 1px solid #fff;
+}
+
+.alert-display-none {
+    display: none;
+}
+
+.alert-display-block {
+    display: block;
+}
